@@ -46,11 +46,11 @@ OASIS-2 (Open Access Series of Imaging Studies) is a public dataset providing lo
 
 ## 🚀 Getting Started
 To run the notebooks:
-
-1. Clone this repository
-2. Install dependencies
-3. Download Oasis 2 database and extract the csv
-4. Run each notebook step-by-step in order
+1. Get access to the Oasis-2 dataset
+2. Clone this repository
+3. Install dependencies
+4. Download Oasis-2 dataset and extract the csv
+5. Run each notebook step-by-step in order
    - Start with data-analysis_oasis2.ipynb
    - Then proceed to data-training_oasis2.ipynb
 
