@@ -1,4 +1,5 @@
 # 🧠 OASIS-2 Data Analysis & Training
+![results of the model comparison](assets/output.png)
 Welcome to my AI Project! This repository is dedicated to exploring and modeling Alzheimer's Disease (AD) using the [OASIS-2 dataset](https://sites.wustl.edu/oasisbrains/home/oasis-2/), a rich collection of longitudinal brain MRI data from older adults. The project is split into two main parts:
 
 - 📊 **data-analysis_oasis2.ipynb**: For data exploration, cleaning and preprocessing.
