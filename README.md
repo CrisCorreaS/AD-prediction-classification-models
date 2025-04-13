@@ -1,4 +1,16 @@
 # 🧠 OASIS-2 Data Analysis & Training
+![Badge Finished](https://img.shields.io/badge/STATUS-FINISHED-violet)
+<img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/>
+<img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%237F52FF.svg?style=flat-square&logo=Matplotlib&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
+
 ![results of the model comparison](assets/output.png)
 Welcome to my AI Project! This repository is dedicated to exploring and modeling Alzheimer's Disease (AD) using the [OASIS-2 dataset](https://sites.wustl.edu/oasisbrains/home/oasis-2/), a rich collection of longitudinal brain MRI data from older adults. The project is split into two main parts:
 
