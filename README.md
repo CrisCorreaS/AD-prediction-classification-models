@@ -1,4 +1,4 @@
-# 🧠 OASIS-2 Data Analysis & Training
+# 🧠 OASIS-2 Data Analysis, AD Prediction Models Training & Testing
 ![Badge Finished](https://img.shields.io/badge/STATUS-FINISHED-violet)
 <img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/>
 <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
